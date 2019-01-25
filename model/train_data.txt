@@ -1,0 +1,119 @@
+__label__course computer fundamental
+__label__course com fund
+__label__course programming language2
+__label__course pl2
+__label__course programming language 1
+__label__course pl1
+__label__course discrete mathematics
+__label__course dm
+__label__course discrete math
+__label__course data structure
+__label__course ds
+__label__course computer organization and architecture
+__label__course coa
+__label__course introduction to database
+__label__course database
+__label__course operating systems
+__label__course os
+__label__course object oriented analysis and design
+__label__course ooad
+__label__course algorithms
+__label__course advance database management systems
+__label__course adbms
+__label__course theory of computation
+__label__course toc
+__label__course software engineering
+__label__course object oriented programming 1
+__label__course oop1
+__label__course object oriented programming 2
+__label__course oop2
+__label__course computer networks
+__label__course cn
+__label__course computer science mathematics
+__label__course cs math
+__label__course computer and information ethics
+__label__course cie
+__label__course basic graph theory
+__label__course bgt
+__label__course enterprise resource planning
+__label__course erp
+__label__course compiler design
+__label__course compiler
+__label__course web technologies
+__label__course web tech
+__label__course advanced computer networks
+__label__course acn
+__label__course computer graphics
+__label__course cg
+__label__course internet security
+__label__course embedded technologies
+__label__course embed tech
+__label__course formal methods of software engineering
+__label__course fmse
+__label__course network security
+__label__course ns
+__label__course embedded system software
+__label__course ess
+__label__course advanced operating systems
+__label__course aos
+__label__course artificial intelligence and expert systems
+__label__course ai
+__label__course software development project management
+__label__course sdpm
+__label__course software requirement engineering
+__label__course sre
+__label__course software quality and testing
+__label__course sqt
+__label__course e-governance
+__label__course multimedia systems
+__label__course simulation and modeling
+__label__course computer vision & pattern recognition
+__label__course cvpr
+__label__course data warehouse and data mining
+__label__course data mining
+__label__course human computer interaction
+__label__course hci
+__label__course linear programming
+__label__course advanced topics in programming 1
+__label__course atp1
+__label__course advanced topics in programming 2
+__label__course atp2
+__label__course advanced topics in programming 3
+__label__course atp3
+__label__course research methodology
+__label__course rm
+__label__course software project 2
+__label__course sp2
+__label__course software project 1
+__label__course sp1
+__label__course thesis
+__label__position lecturer
+__label__position dean
+__label__position assistant professor
+__label__position special assistant osa
+__label__position associate professor
+__label__position associate dean fsit
+__label__position proctor
+__label__position director
+__label__position director osa 
+__label__position head graduate program cs
+__label__position head department of mis
+__label__position head undergraduate program cs
+__label__position director it operations
+__label__position senior assistant professor
+__label__position special assistant cs
+__label__position senior assistant professor
+__label__position special assistant osa
+__label__department computer science
+__label__department computer science and engineering
+__label__department software engineering
+__label__department computer science and software engineering
+__label__department cs
+__label__department cse
+__label__department se
+__label__department csse
+__label__department computer information system
+__label__department cis
+__label__department osa
+__label__department office of students affairs
+__label__department it operations

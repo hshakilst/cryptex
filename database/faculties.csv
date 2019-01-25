@@ -1,0 +1,77 @@
+name	department	position	id	email
+MD AL-AMIN	Computer Science/cs	LECTURER	5500-231-1	alamin@aiub.edu
+ARIFUR RAHMAN	Computer Science/cs	LECTURER	1155-662-4	arif@aiub.edu
+MUSHFIQUR RAHMAN	Computer Science/cs	LECTURER	7477-100-4	mushfiq@aiub.edu
+FARIA NAWSHIN	Computer Science/cs	LECTURER	8833-206-8	faria@aiub.edu
+JUENA AHMED NOSHIN	Computer Science/cs	LECTURER	6130-754-3	noshin@aiub.edu
+MD. FAHAD MONIR	Computer Science/cs	LECTURER	5409-294-4	monir@aiub.edu
+MD. MASUDUZZAMAN	Computer Science/cs	LECTURER	3972-927-7	masud@aiub.edu
+FARZANA BENTE ALAM	Computer Science/cs	LECTURER	1351-609-9	farzana@aiub.edu
+SIFAT RAHMAN AHONA	Computer Science/cs	LECTURER	3134-405-2	ahona@aiub.edu
+TASHMIAH TAMZID ANANNYA	Computer Science/cs	LECTURER	2561-777-4	anannya@aiub.edu
+JAMILA YASMIN PAPRY	Computer Science/cs	LECTURER	6427-290-7	papry@aiub.edu
+WARDAH SALEH	Computer Science/cs	LECTURER	7148-816-5	saleh@aiub.edu
+ASMA FARIHA	Computer Science/cs	LECTURER	2296-513-6	asma@aiub.edu
+MD. KISHOR MOROL	Computer Science/cs	LECTURER	2130-720-7	kishor@aiub.edu
+TALHA BIN SARWAR	Computer Science/cs	LECTURER	4347-774-3	talha@aiub.edu
+MOHAIMEN- BIN- NOOR	Computer Science/cs	LECTURER	5514-925-2	noor@aiub.edu
+MD. ASIFUL ISLAM	Computer Science/cs	LECTURER	9318-280-9	asif@aiub.edu
+RIFAT TASNIM ANANNYA	Computer Science/cs	LECTURER	6952-537-9	tasnim@aiub.edu
+ZAHIDUDDIN AHMED	Computer Science/cs	LECTURER	5376-176-4	zahid@aiub.edu
+FAHMIDA ALAM	Computer Science/cs	LECTURER	3334-766-7	fahmida@aiub.edu
+DR. A. F. M. SAIFUDDIN SAIF	Computer Science/cs	Assistant Professor	2441-760-2	saif@aiub.edu
+DR. T. M. SHAHRIAR SAZZAD	Computer Science/cs	Assistant Professor	5750-822-5	sazzad@aiub.edu
+UMME MARZIA HAQUE	Computer Science/cs	Assistant Professor	8520-909-2	marzia@aiub.edu
+DR. MD. MAHBUB CHOWDHURY MISHU	Computer Science/cs	Assistant Professor	7691-306-6	mishu@aiub.edu
+DR. MD. ABDULLAH - AL - JUBAIR	Computer Science/cs	Assistant Professor	4096-993-7	jubair@aiub.edu
+REZWAN AHMED	Computer Science/cs	Assistant Professor	2421-587-7	rezwan@aiub.edu
+MOHAMMAD MAHMUDUL HASAN	Computer Science/cs	Assistant Professor	5861-525-3	mahmudul@aiub.edu
+JANNATUL MAOWA	Computer Science/cs	Assistant Professor	9179-421-2	maowa@aiub.edu
+DR. MD. SAKIR HOSSAIN	Computer Science/cs	Assistant Professor	2712-614-8	sakir@aiub.edu
+KAWSER IROM RUSHEE	Computer Science/cs	Assistant Professor	2901-758-7	rushee@aiub.edu
+SABBIR AHMED	Computer Science/cs	Assistant Professor	9617-749-3	sabbir@aiub.edu
+MD. EZAZUL ISLAM	Computer Science/cs	Assistant Professor	3196-853-3	ezaz@aiub.edu
+SAJIB HASAN	Computer Science/cs	Assistant Professor	9165-183-3	sajib@aiub.edu
+FAHAD AHMED	Computer Science/cs	Assistant Professor	3081-540-9	fahad@aiub.edu
+MOHAMMAD SAMAWAT ULLAH	Computer Science/cs	Assistant Professor	6961-883-1	samawat@aiub.edu
+A.G.M. ZAMAN	Computer Science/cs	Assistant Professor	8508-679-6	zaman@aiub.edu
+MD. SOHIDUL ISLAM	Computer Science/cs	Assistant Professor	6986-423-4	shohidul@aiub.edu
+DR. MD. SADDAM MUKTA HOSSAIN	Computer Science/cs	Assistant Professor	7330-267-3	mukta@aiub.edu
+MUHAMMAD SARWAR JAHAN MORSHED	Computer Science/cs	Assistant Professor	1158-719-3	morshed@aiub.edu
+MD. NAVID BIN ANWAR	Computer Science/cs	Assistant Professor	7252-801-7	anwar@aiub.edu
+DR. ASHRAF UDDIN	Computer Science/cs	Assistant Professor	8913-883-5	ashraf@aiub.edu
+AZM EHTESHAM CHOWDHURY	Computer Science/cs	Assistant Professor	6611-415-8	ehtesham@aiub.edu
+KANIZ FATEMA	Computer Science/cs	Assistant Professor	3467-688-8	kaniz@aiub.edu
+NAHAR SULTANA	Computer Science/cs	Assistant Professor	9294-443-2	nahar@aiub.edu
+TOHEDUL ISLAM	Computer Science/cs	Assistant Professor	9177-916-8	tohedul@aiub.edu
+MD. MANZURUL HASAN	Computer Science/cs	Assistant Professor	7833-190-3	manzurul@aiub.edu
+VICTOR STANY ROZARIO	Computer Science/cs	Assistant Professor	3080-910-4	stany@aiub.edu
+SHAHRIN CHOWDHURY	Computer Science/cs	Assistant Professor	1647-494-5	shahrin@aiub.edu
+MD. HASIBUL HASAN	Computer Science/cs	Assistant Professor	2563-737-3	hasib@aiub.edu
+MD. RAZIB HAYAT KHAN	Computer Science/cs	Assistant Professor	4025-736-9	razib@aiub.edu
+S.M. ABDUR BHUIYAN ROUF	Computer Science/cs	Assistant Professor	5748-933-2	rouf@aiub.edu
+MD. SAEF ULLAH MIAH	Computer Science/cs	Assistant Professor	3206-548-5	saef@aiub.edu
+SHARFUDDIN MAHMOOD	Computer Science/cs/osa	Special Assistant OSA	2182-886-3	sharfuddin@aiub.edu
+SHARFUDDIN MAHMOOD	Computer Science/cs	Assistant Professor	2182-886-3	sharfuddin@aiub.edu
+DR. KAMRUDDIN MD. NUR	Computer Science/cs	Associate Professor	8345-526-1	nur@aiub.edu
+DR. AFROZA NAHAR	Computer Science/cs	Associate Professor	7980-707-8	afroza@aiub.edu
+DR. M. M. MAHBUBUL SYEED	Computer Science/cs	Associate Professor	3089-535-4	syeed@aiub.edu
+MASHIOUR RAHMAN	Computer Science/cs	Associate Professor	7193-933-3	mashior@aiub.edu
+MASHIOUR RAHMAN	Computer Science/cs/fsit	Associate Dean FSIT	7193-933-3	mashior@aiub.edu
+S. A. M. MANZUR HOSSAIN KHAN	Computer Science/cs	Associate Professor	4792-899-5	manzur@aiub.edu
+S. A. M. MANZUR HOSSAIN KHAN	Computer Science/cs/osa	DIRECTOR OSA	4792-899-5	manzur@aiub.edu
+S. A. M. MANZUR HOSSAIN KHAN	Computer Science/cs	PROCTOR	4792-899-5	manzur@aiub.edu
+MD. MANIRUL ISLAM	Computer Science/cs	Associate Professor	3468-197-3	manirul@aiub.edu
+MD. MANIRUL ISLAM	Computer Science/cs	DIRECTOR	3468-197-3	manirul@aiub.edu
+DR. KHANDAKER TABIN HASAN	Computer Science/cs	Associate Professor	8247-719-4	tabin@aiub.edu
+DR. KHANDAKER TABIN HASAN	Computer Science/cs	Head Graduate Program CS	8247-719-4	tabin@aiub.edu
+DR. KHANDAKER TABIN HASAN	Computer Science/cs/mis	Head Department of MIS	8247-719-4	tabin@aiub.edu
+DR. DIP NANDI	Computer Science/cs	Associate Professor	9149-929-4	dip@aiub.edu
+DR. DIP NANDI	Computer Science/cs	Head Undergraduate Program CS	9149-929-4	dip@aiub.edu
+MD. ANWARUL KABIR	Computer Science/cs	Senior Assistant Professor	9444-300-1	kabir@aiub.edu
+DANILO G. MORGIA	Computer Science/cs	Senior Assistant Professor	9138-755-8	morgia@aiub.edu
+DANILO G. MORGIA	Computer Science/cs/it operations	Director IT Operations	9138-755-8	morgia@aiub.edu
+RAHMAN MOHAMMOD HAFIZUR	Computer Science/cs	Senior Assistant Professor	4236-311-3	hafiz@aiub.edu
+RAHMAN MOHAMMOD HAFIZUR	Computer Science/cs	Special Assistant CS	4236-311-3	hafiz@aiub.edu
+ABHIJIT BHOWMIK	Computer Science/cs	Senior Assistant Professor	1595-850-4	abhijit@aiub.edu
+ABHIJIT BHOWMIK	Computer Science/cs/osa	Special Assistant OSA	1595-850-4	abhijit@aiub.edu
